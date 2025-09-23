@@ -47,6 +47,3 @@ From the world of gaming, I bring a core belief to my work: **"Everything is try
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBeLike&layout=compact&theme=tokyonight&hide_border=true" alt="Erick's Top Languages" />
 </p>
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=ErickBeLike&theme=tokyonight&hide_border=true" alt="Erick's GitHub Streak" />
-</p>
